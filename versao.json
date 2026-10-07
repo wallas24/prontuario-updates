@@ -1,0 +1,7 @@
+{
+  "versao": "1.1.0",
+  "notas": "Campo de CID (diagnostico padronizado) com busca, PDF de transferencia de prontuario, ajustes no rodape de impressao e no layout dos sinais vitais.",
+  "data": "2026-10-07",
+  "recompilacao_necessaria": false,
+  "url_download": "https://github.com/wallas24/prontuario-updates/releases"
+}
