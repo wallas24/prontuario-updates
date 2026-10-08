@@ -1,7 +1,7 @@
 {
-  "versao": "1.2.0",
-  "notas": "Backup automatico: o app agora salva uma copia do banco de dados sozinho ao abrir e ao fechar, guardando os ultimos 30 dias em Documentos\\Prontuario-Backups. Tambem inclui o proprio recurso de verificar atualizacao, campo de CID com busca, PDF de transferencia de prontuario e ajustes de impressao.",
+  "versao": "1.3.0",
+  "notas": "Restaurar backup: novo botao para restaurar um backup salvo (faz copia de seguranca do estado atual antes de substituir). Os botoes de backup e atualizacao foram reorganizados num grupo so, Atualizacao e Backup, na barra lateral.",
   "data": "2026-10-07",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.2.0.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.3.0.zip"
 }
