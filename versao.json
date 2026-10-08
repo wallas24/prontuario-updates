@@ -1,7 +1,7 @@
 {
-  "versao": "1.1.0",
-  "notas": "Campo de CID (diagnostico padronizado) com busca, PDF de transferencia de prontuario, ajustes no rodape de impressao e no layout dos sinais vitais.",
+  "versao": "1.2.0",
+  "notas": "Backup automatico: o app agora salva uma copia do banco de dados sozinho ao abrir e ao fechar, guardando os ultimos 30 dias em Documentos\\Prontuario-Backups. Tambem inclui o proprio recurso de verificar atualizacao, campo de CID com busca, PDF de transferencia de prontuario e ajustes de impressao.",
   "data": "2026-10-07",
-  "recompilacao_necessaria": false,
-  "url_download": "https://github.com/wallas24/prontuario-updates/releases"
+  "recompilacao_necessaria": true,
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.2.0.zip"
 }
