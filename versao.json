@@ -1,7 +1,7 @@
 {
-  "versao": "1.2.1",
-  "notas": "Esta e uma versao de teste, so para confirmar que o botao Verificar atualizacao esta funcionando corretamente. Pode ignorar - nao ha nada de novo pra instalar de verdade ainda.",
+  "versao": "1.2.0",
+  "notas": "Backup automatico: o app agora salva uma copia do banco de dados sozinho ao abrir e ao fechar, guardando os ultimos 30 dias em Documentos\\Prontuario-Backups. Tambem inclui o proprio recurso de verificar atualizacao, campo de CID com busca, PDF de transferencia de prontuario e ajustes de impressao.",
   "data": "2026-10-07",
-  "recompilacao_necessaria": false,
+  "recompilacao_necessaria": true,
   "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.2.0.zip"
 }
