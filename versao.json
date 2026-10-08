@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.0",
-  "notas": "Restaurar backup: novo botao para restaurar um backup salvo (faz copia de seguranca do estado atual antes de substituir). Os botoes de backup e atualizacao foram reorganizados num grupo so, Atualizacao e Backup, na barra lateral.",
-  "data": "2026-10-07",
+  "versao": "1.4.0",
+  "notas": "Etiquetas nos pacientes (ex: Hipertenso, Retorno em 6 meses) com filtro na lista, e assistente de primeira configuracao em 3 passos (dados do medico, senha e aparencia).",
+  "data": "2026-10-08",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.3.0.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.4.0.zip"
 }
