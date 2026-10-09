@@ -1,7 +1,7 @@
 {
-  "versao": "1.9.1",
-  "notas": "Barra superior com o nome do paciente fixa ao rolar (atendimento e ficha) e botoes Cancelar/Salvar/Voltar flutuantes no atendimento.",
+  "versao": "1.9.2",
+  "notas": "Botoes flutuantes sem a barra, telas abrem sempre no topo e o campo Anamnese passou a se chamar Consulta.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.9.1.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.9.2.zip"
 }
