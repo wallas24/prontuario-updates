@@ -1,7 +1,7 @@
 {
-  "versao": "1.5.0",
-  "notas": "Nova ficha do paciente em duas colunas: resumo com observacao fixa editavel, dados pessoais, historico agrupado por dia com busca e abas (Atendimentos, Documentos emitidos, Exames e anexos). Menus Documentos e mais acoes no cabecalho.",
+  "versao": "1.5.1",
+  "notas": "Ficha do paciente agora usa toda a largura da janela e textos longos sem espacos nao estouram mais o layout.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.5.0.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.5.1.zip"
 }
