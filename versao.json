@@ -1,7 +1,7 @@
 {
-  "versao": "1.4.0",
-  "notas": "Etiquetas nos pacientes (ex: Hipertenso, Retorno em 6 meses) com filtro na lista, e assistente de primeira configuracao em 3 passos (dados do medico, senha e aparencia).",
-  "data": "2026-10-08",
+  "versao": "1.5.0",
+  "notas": "Nova ficha do paciente em duas colunas: resumo com observacao fixa editavel, dados pessoais, historico agrupado por dia com busca e abas (Atendimentos, Documentos emitidos, Exames e anexos). Menus Documentos e mais acoes no cabecalho.",
+  "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.4.0.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.5.0.zip"
 }
