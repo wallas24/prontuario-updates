@@ -1,7 +1,7 @@
 {
-  "versao": "1.10.1",
-  "notas": "Botao Novo paciente alinhado com a busca na lista de pacientes e botoes de salvar/cancelar flutuantes no cadastro de paciente e nos dados do medico.",
+  "versao": "1.10.2",
+  "notas": "Barra superior fixa ao rolar na lista de pacientes, atendimentos recentes e cadastro de paciente.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.1.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.2.zip"
 }
