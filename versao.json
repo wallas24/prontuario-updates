@@ -1,7 +1,7 @@
 {
-  "versao": "1.5.2",
-  "notas": "Ficha do paciente refeita fiel ao mockup: cabecalho em faixa com nome, idade, favorito e etiquetas, botoes padronizados, cores da observacao fixa e do historico.",
+  "versao": "1.6.0",
+  "notas": "Nova tela de pacientes: favoritos, filtro por condicao (etiquetas), ordenacao, abas (Todos, Atendidos hoje, Sem atendimento) e lista agrupada por Hoje, Esta semana, Anteriores. Busca tambem por telefone.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.5.2.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.6.0.zip"
 }
