@@ -1,7 +1,7 @@
 {
-  "versao": "1.9.2",
-  "notas": "Botoes flutuantes sem a barra, telas abrem sempre no topo e o campo Anamnese passou a se chamar Consulta.",
+  "versao": "1.9.3",
+  "notas": "Removido o campo Queixa principal do atendimento; fica apenas Consulta. Atendimentos recentes passam a mostrar o inicio do texto da consulta.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.9.2.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.9.3.zip"
 }
