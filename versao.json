@@ -1,7 +1,7 @@
 {
-  "versao": "1.7.0",
-  "notas": "Nova tela de cadastro e edicao do paciente em cards: observacao fixa e etiquetas na lateral, identificacao, contato (com opcao de WhatsApp) e endereco. Um unico botao de salvar no final.",
+  "versao": "1.8.0",
+  "notas": "Nova tela de atendimento: cabecalho com paciente e menu de documentos, checklist de progresso, queixa principal, antecedentes com opcao de limpar, exames em cartao, diagnostico anterior com botao de repetir e um unico Salvar no final.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.7.0.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.8.0.zip"
 }
