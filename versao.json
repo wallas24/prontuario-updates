@@ -1,7 +1,7 @@
 {
-  "versao": "1.9.3",
-  "notas": "Removido o campo Queixa principal do atendimento; fica apenas Consulta. Atendimentos recentes passam a mostrar o inicio do texto da consulta.",
+  "versao": "1.10.0",
+  "notas": "Nova tela inicial: busca rapida de paciente para atender, atendidos recentemente, contadores de hoje e pacientes, atalhos de documento, atendimentos recentes e backup.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.9.3.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.0.zip"
 }
