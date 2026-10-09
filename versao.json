@@ -1,7 +1,7 @@
 {
-  "versao": "1.6.0",
-  "notas": "Nova tela de pacientes: favoritos, filtro por condicao (etiquetas), ordenacao, abas (Todos, Atendidos hoje, Sem atendimento) e lista agrupada por Hoje, Esta semana, Anteriores. Busca tambem por telefone.",
+  "versao": "1.7.0",
+  "notas": "Nova tela de cadastro e edicao do paciente em cards: observacao fixa e etiquetas na lateral, identificacao, contato (com opcao de WhatsApp) e endereco. Um unico botao de salvar no final.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.6.0.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.7.0.zip"
 }
