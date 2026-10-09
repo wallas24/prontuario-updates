@@ -1,7 +1,7 @@
 {
-  "versao": "1.10.0",
-  "notas": "Nova tela inicial: busca rapida de paciente para atender, atendidos recentemente, contadores de hoje e pacientes, atalhos de documento, atendimentos recentes e backup.",
+  "versao": "1.10.1",
+  "notas": "Botao Novo paciente alinhado com a busca na lista de pacientes e botoes de salvar/cancelar flutuantes no cadastro de paciente e nos dados do medico.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.0.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.1.zip"
 }
