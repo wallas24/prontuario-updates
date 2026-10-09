@@ -1,7 +1,7 @@
 {
-  "versao": "1.10.2",
-  "notas": "Barra superior fixa ao rolar na lista de pacientes, atendimentos recentes e cadastro de paciente.",
+  "versao": "1.10.3",
+  "notas": "Filtros laterais da lista de pacientes e dos atendimentos recentes ficam fixos enquanto a lista rola.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.2.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.3.zip"
 }
