@@ -1,7 +1,7 @@
 {
-  "versao": "1.5.1",
-  "notas": "Ficha do paciente agora usa toda a largura da janela e textos longos sem espacos nao estouram mais o layout.",
+  "versao": "1.5.2",
+  "notas": "Ficha do paciente refeita fiel ao mockup: cabecalho em faixa com nome, idade, favorito e etiquetas, botoes padronizados, cores da observacao fixa e do historico.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.5.1.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.5.2.zip"
 }
