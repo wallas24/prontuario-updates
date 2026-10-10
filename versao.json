@@ -1,7 +1,7 @@
 {
-  "versao": "1.10.3",
-  "notas": "Filtros laterais da lista de pacientes e dos atendimentos recentes ficam fixos enquanto a lista rola.",
+  "versao": "1.10.4",
+  "notas": "Receituario e documentos mantem as quebras de linha digitadas; Queixa principal removida da folha de impressao; Diagnostico previo agora aparece e pode ser editado dentro do atendimento.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.3.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.4.zip"
 }
