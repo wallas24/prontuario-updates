@@ -1,7 +1,7 @@
 {
-  "versao": "1.12.0",
-  "notas": "Relatórios reorganizados em cards: atividade do consultório (segue o período) e perfil dos pacientes, com lista completa e impressão por card.",
+  "versao": "1.13.0",
+  "notas": "Backups criptografados com a senha do programa; backups antigos são convertidos automaticamente; restauração pede a senha do backup.",
   "data": "2026-10-10",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.12.0.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.13.0.zip"
 }
