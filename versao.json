@@ -1,7 +1,7 @@
 {
-  "versao": "1.10.4",
-  "notas": "Receituario e documentos mantem as quebras de linha digitadas; Queixa principal removida da folha de impressao; Diagnostico previo agora aparece e pode ser editado dentro do atendimento.",
+  "versao": "1.11.0",
+  "notas": "Novo nome e identidade: ProntoMed. Nova tela de login, logo no menu, cores mais suaves e novo ícone do app.",
   "data": "2026-10-09",
   "recompilacao_necessaria": true,
-  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.10.4.zip"
+  "url_download": "https://raw.githubusercontent.com/wallas24/prontuario-updates/main/releases/prontuario-v1.11.0.zip"
 }
