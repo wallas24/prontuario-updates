@@ -1,0 +1,7 @@
+{
+  "versao": "1.15.0",
+  "notas": "Instalador pronto para Windows, licença por computador e módulos opcionais, validação de cadastro e exclusão de paciente mais segura.",
+  "data": "2026-10-12",
+  "recompilacao_necessaria": false,
+  "url_download": "https://github.com/wallas24/prontuario-updates/releases/latest"
+}
