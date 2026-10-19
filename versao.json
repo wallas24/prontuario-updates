@@ -1,7 +1,7 @@
 {
-  "versao": "1.18.0",
-  "notas": "Login e recuperação de senha mais protegidos, nova chave de licença (é preciso ativar de novo), ficha de atendimento reorganizada, aviso de campos vazios, campo Raça/Cor e relatórios em CSV.",
-  "data": "2026-10-17",
+  "versao": "1.21.0",
+  "notas": "Novo módulo de Faturamento: painel, lançamentos, tabela de preços e recibos.",
+  "data": "2026-10-19",
   "recompilacao_necessaria": false,
   "url_download": "https://github.com/wallas24/prontuario-updates/releases/latest"
 }
