@@ -1,7 +1,7 @@
 {
-  "versao": "1.23.0",
-  "notas": "Agenda, faturamento completo, relatórios em abas (faturamento e CIDs), cobrança ao marcar atendido, menu lateral reorganizado, atendimento retomado após reiniciar, CPF e CRM/RQE no recibo e nos documentos.",
-  "data": "2026-10-23",
+  "versao": "2.0.0",
+  "notas": "Agenda e faturamento completos, relatórios em abas (faturamento e CIDs), menu lateral recolhível, CPF obrigatório no cadastro, botões Novo documento e Imprimir/PDF separados no atendimento, programa abre maximizado.",
+  "data": "2026-10-26",
   "recompilacao_necessaria": true,
   "url_download": "https://github.com/wallas24/prontuario-updates/releases/latest"
 }
